@@ -1,0 +1,48 @@
+.sidebar {
+    background-color: #fff;
+    width: 15rem;
+    height: 100vh;
+}
+
+.icons{
+    display: flex;
+    justify-content: left;
+    padding-left: 1.5rem;
+    padding-top: 2.0rem;
+}
+
+ .letra-instagram {
+    padding-left: 1.5rem;
+    padding-top: 2.5rem;
+} 
+
+ .home-icon {
+    display: flex;
+    align-items: center;
+    padding-left: 1.5rem;
+    padding-top: 2.5rem;
+
+}
+
+/* .search-icon {
+    padding-left: 1.5rem;
+    padding-top: 2.0rem;
+ }
+
+ .explore-icon {
+    padding-left: 1.5rem;
+    padding-top: 2.0rem;
+ }
+
+ .reals-icon {
+    padding-left: 1.5rem;
+    padding-top: 2.0rem;
+ } */ 
+
+ .more-icon{
+    display: flex;
+    align-items: center;
+    padding-left: 1.5rem;
+    padding-top: 15rem;
+
+ }
