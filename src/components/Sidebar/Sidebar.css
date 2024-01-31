@@ -1,7 +1,9 @@
 .sidebar {
-    background-color: #fff;
-    width: 15rem;
-    height: 100vh;
+   position: relative;
+   background-color: #fff;
+   width: 15rem;
+   height: 100vh;
+   z-index: 5;
 }
 
 .icons{
