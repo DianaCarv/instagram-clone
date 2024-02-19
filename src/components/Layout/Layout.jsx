@@ -1,14 +1,9 @@
 import "./Layout.css";
 
-export default function Layout() {
+export default function Layout({ children }) {
   return (
-    <div>
-      <div>
-        
-      </div>
-      <div>
-
-      </div>
+    <div style={{ width: '100%' }} >
+      {children}
     </div>
   )
 }

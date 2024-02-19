@@ -12,7 +12,8 @@ import "./Sidebar.css";
 
 export const Sidebar = () => {
   return (
-    <div className="sidebar linea-vertical">
+    <div className="sidebar">
+      
       <div className="icons letra-instagram ">
         <LetterInstagram />
       </div>

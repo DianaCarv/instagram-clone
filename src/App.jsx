@@ -1,12 +1,17 @@
 import { Home,  } from './pages'
-import { Header } from './components/Header/Header'
+import { Sidebar } from './components/Sidebar/Sidebar'
+import Layout from './components/Layout/Layout'
+import "./App.css"
+
 
 function App() {
   return (
-    <div>
-      <Home />
-      <Header/>
+    <div className='main-container'>
+      <Sidebar />
 
+      <Layout>
+        <Home />
+      </Layout>
     </div>
   )
 }
