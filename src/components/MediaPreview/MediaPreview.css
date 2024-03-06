@@ -1,0 +1,21 @@
+.media-preview {
+    width: 100%;
+}
+
+.media-preview img {
+    width: 100%;
+}
+
+
+.media-preview-arrows{
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    top: 30%;
+    width: 95%; 
+    padding-left: 0.6rem;
+    padding-right: 1rem;
+}
+
+
+

@@ -19,31 +19,31 @@ export const Sidebar = () => {
       </div>
       <div className="icons home-icon">
         <HomeIcon />
-        <label style={{ color: "black" }}>Home</label>
+        <label className="icon-label" style={{ color: "black" }}>Home</label>
       </div>
       <div className="icons search-icon">
         <SearchIcon />
-        <label style={{ color: "black" }}>Search</label>
+        <label className="icon-label" style={{ color: "black" }}>Search</label>
       </div>
       <div className="icons explore-icon">
         <Explore />
-        <label style={{ color: "black" }}>Explore</label>
+        <label className="icon-label" style={{ color: "black" }}>Explore</label>
       </div>
       <div className="icons reals-icon">
         <RealsIcon />
-        <label style={{ color: "black" }}>Reals</label>
+        <label className="icon-label" style={{ color: "black" }}>Reals</label>
       </div>
       <div className="icons messages-icon">
         <MessagesIcon />
-        <label style={{ color: "black" }}>Messages</label>
+        <label className="icon-label" style={{ color: "black" }}>Messages</label>
       </div>
       <div className="icons notifications-icon">
         <NotificationsIcon />
-        <label style={{ color: "black" }}>Notifications</label>
+        <label className="icon-label" style={{ color: "black" }}>Notifications</label>
       </div>
       <div className="icons create-icon">
         <CreateIcon />
-        <label style={{ color: "black" }}>Create</label>
+        <label className="icon-label" style={{ color: "black" }}>Create</label>
       </div>
 
       <ProfileIcon />
@@ -51,7 +51,7 @@ export const Sidebar = () => {
       <div className=" more-icon ">
         <MoreIcon />
 
-        <label style={{ color: "black" }}>Further</label>
+        <label className="icon-label" style={{ color: "black" }}>Further</label>
       </div>
     </div>
   );
