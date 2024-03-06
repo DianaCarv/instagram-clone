@@ -14,8 +14,9 @@
     align-items: center;
     padding-top: 2.0rem;
     
+    
  }
 
- label{
+ .icon-label{
     padding-left: 1rem;
  }

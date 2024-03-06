@@ -1,7 +1,20 @@
 
-export default function ArrowRightIcon({ height=25, width=25, className }) {
+export default function ArrowIcon({ type, height=25, width=25, className }) {
+  
+  const getStylesArrow = () => {
+    switch (type) {
+      case 'left':
+        return { transform: "scaleX(-1)" }
+      case 'right':
+        return { transform: "" }
+      default:
+        break;
+    }
+  }
+
   return (
     <svg
+      style={getStylesArrow()}
       className={className}
       fill="rgb(220, 223, 223)"
       height={`${height}px`}
