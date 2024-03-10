@@ -1,33 +1,42 @@
 [
-    {
-      "url": "https://c4.wallpaperflare.com/wallpaper/280/528/872/arboles-bosque-natutraleza-paisaje-wallpaper-preview.jpg"
-    },
-    {
-        "url":"https://www.wallpaperflare.com/invierno-naturaleza-nieve-paisaje-snow-cold-temperature-wallpaper-cngnu"
-      },
-      {
-        "url": "https://c4.wallpaperflare.com/wallpaper/167/99/747/animales-ciervo-lago-paisaje-wallpaper-preview.jpg"
-      },
-
-      {
-        "url": "https://www.wallpaperflare.com/aerostaticos-globos-naturaleza-paisaje-wallpaper-skrwo"
-      },
-      {
-        "url": "https://c4.wallpaperflare.com/wallpaper/856/616/845/bosque-naturaleza-paisaje-wallpaper-preview.jpg"
-      },
-      {
-        "url": "https://c4.wallpaperflare.com/wallpaper/29/716/942/bosque-invierno-lago-paisaje-wallpaper-preview.jpg"
-      },
-      {
-        "url": "https://c4.wallpaperflare.com/wallpaper/354/98/338/invierno-helado-lago-naturaleza-wallpaper-preview.jpg"
-      },
-      {
-        "url": "https://c4.wallpaperflare.com/wallpaper/924/163/622/naturaleza-paisajes-verde-wallpaper-preview.jpg"
-      },
-      {
-        "url": "https://c4.wallpaperflare.com/wallpaper/69/677/160/paisajes-tren-vapor-wallpaper-preview.jpg"
-      },
-      {
-        "url": "https://c4.wallpaperflare.com/wallpaper/2/97/209/acantilados-mar-naturaleza-paisaje-wallpaper-preview.jpg"
-      }
+  {
+    "url": "https://c4.wallpaperflare.com/wallpaper/280/528/872/arboles-bosque-natutraleza-paisaje-wallpaper-preview.jpg",
+    "type": "picture"
+  },
+  {
+    "url": "https://www.xtrafondos.com/wallpapers/resized/castillo-neuschwanstein-12025.jpg?s=large",
+    "type": "picture"
+  },
+  {
+    "url": "https://c4.wallpaperflare.com/wallpaper/167/99/747/animales-ciervo-lago-paisaje-wallpaper-preview.jpg",
+    "type": "picture"
+  },
+  {
+    "url": "https://www.xtrafondos.com/wallpapers/resized/camaleon-11943.jpg?s=large",
+    "type": "picture"
+  },
+  {
+    "url": "https://www.xtrafondos.com/wallpapers/resized/campo-de-tulipanes-rosas-11687.jpg?s=large",
+    "type": "picture"
+  },
+  {
+    "url": "https://images.pexels.com/photos/3375674/pexels-photo-3375674.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "type": "picture"
+  },
+  {
+    "url": "https://www.xtrafondos.com/wallpapers/resized/honfleur-11967.jpg?s=large",
+    "type": "picture"
+  },
+  {
+    "url": "https://c4.wallpaperflare.com/wallpaper/924/163/622/naturaleza-paisajes-verde-wallpaper-preview.jpg",
+    "type": "picture"
+  },
+  {
+    "url": "https://c4.wallpaperflare.com/wallpaper/69/677/160/paisajes-tren-vapor-wallpaper-preview.jpg",
+    "type": "picture"
+  },
+  {
+    "url": "https://v3.cdnpk.net/videvo_files/video/free/2012-08/large_watermarked/Stadium%20Clouds%20Time%20Lapse-H264%2075_preview.mp4",
+    "type": "video"
+  }
 ]

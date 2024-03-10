@@ -38,6 +38,7 @@ export const PostCard = ({ mediaList }) => {
       </div>
       <NumberLikes likes={152580} />
       <label>
+        
         {" "}
         <b> Global Sport</b> March😊{" "}
       </label>
