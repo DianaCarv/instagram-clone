@@ -1,0 +1,22 @@
+ 
+ 
+ .profile-img{
+    margin-left: 1.5rem;
+    border-color: 1px ;
+    border-radius: 50%;
+    color: black;
+    width: 30px;
+
+ }
+
+ .profile-container{
+    display: flex;
+    align-items: center;
+    padding-top: 2.0rem;
+    
+    
+ }
+
+ .icon-label{
+    padding-left: 1rem;
+ }

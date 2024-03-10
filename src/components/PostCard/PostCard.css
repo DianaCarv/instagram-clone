@@ -1,0 +1,85 @@
+.post-card {
+  width: 28rem;
+  height: 25rem;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  position: relative;
+}
+
+
+.userName {
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.post-card-header {
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  position: relative;
+ 
+}
+
+.verify-button {
+  padding-left: 0.3rem;
+}
+
+.points {
+  position: absolute;
+  right: 10px;
+}
+
+.interaction-button-container {
+  display: flex;
+  flex-direction: row;
+  padding-top: 1rem;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 1rem;
+}
+
+.save-button {
+  padding-left: 19rem;
+}
+
+.label-likes {
+  font-weight: 500;
+}
+
+b {
+  font-weight: 500;
+}
+
+.see-comments {
+  font-weight: 400;
+  color: rgb(147, 147, 147);
+}
+
+.container-happy-face {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.add-comment {
+  color: rgb(147, 147, 147);
+}
+
+.happy-face{
+    padding-left: 19rem;
+}
+
+
+.last-time{
+  color: rgb(165, 165, 165);
+  margin-left: 0.5rem;
+}
+
+
+.img-story-post-card {
+  margin-right: 0px !important;
+
+
+}

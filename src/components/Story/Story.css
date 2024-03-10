@@ -1,0 +1,16 @@
+.history-img{
+    width: 4rem;
+    height: 4rem;
+    margin-right: 1rem;
+   
+}
+
+
+.history-img img{
+ width: 80%;
+ height: 80%;
+ border-radius:20rem ;
+ background: conic-gradient(from 0deg, #d34c4cd2, #fbff00dd); 
+border: 2px solid transparent; 
+
+}
