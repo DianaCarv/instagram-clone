@@ -7,7 +7,7 @@ import NotificationsIcon from "../Icons/NotificationsIcon";
 import ProfileIcon from "../Icons/ProfileIcon";
 import RealsIcon from "../Icons/RealsIcon";
 import SearchIcon from "../Icons/SearchIcon";
-import MessagesIcon from "../Icons/messagesIcon";
+import MessagesIcon from "../Icons/MessagesIcon";
 import "./Sidebar.css";
 
 export const Sidebar = () => {
