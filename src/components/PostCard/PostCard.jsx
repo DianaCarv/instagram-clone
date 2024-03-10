@@ -1,6 +1,6 @@
 import Story from "../Story/Story";
 import HistoryImg1 from "../../assets/profile.jpg";
-import VerifyButton from "../VerifyButton/verifyButton";
+import VerifyButton from "../VerifyButton/VerifyButton";
 import MoreOptionsPoints from "../MoreOptionsPoints/MoreOptionsPoints";
 import PanelInteraction from "../PanelInteraction/PanelInteraction";
 import CommentButton from "../CommentButton";
