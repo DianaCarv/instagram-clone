@@ -1,15 +1,15 @@
 .media-preview {
     width: 100%;
+    
 }
 
 .media-preview img {
     width: 100%;
+    height: 18rem;
 }
 
 
 .media-preview-arrows{
-    display: flex;
-    justify-content: space-between;
     position: absolute;
     top: 30%;
     width: 95%; 
@@ -17,5 +17,12 @@
     padding-right: 1rem;
 }
 
+.arrow-right{
+    position: absolute;
+    right: 10px;
+}
 
-
+.arrow-left{
+    position: absolute;
+    left: 10px;
+}

@@ -1,12 +1,12 @@
 
-export default function ArrowIcon({ type, height=25, width=25, className }) {
+export default function ArrowIcon({ type, height=25, width=25, className, ...props }) {
   
   const getStylesArrow = () => {
     switch (type) {
       case 'left':
-        return { transform: "scaleX(-1)" }
+        return { transform: "scaleX(-1)", cursor: 'pointer' }
       case 'right':
-        return { transform: "" }
+        return { transform: "" , cursor: 'pointer' }
       default:
         break;
     }
@@ -22,6 +22,7 @@ export default function ArrowIcon({ type, height=25, width=25, className }) {
       version="1.1"
       id="Layer_1"
       viewBox="0 0 330 330"
+      {...props}
     >
       <path
         id="XMLID_2_"
